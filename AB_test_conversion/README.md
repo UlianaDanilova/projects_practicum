@@ -1,5 +1,4 @@
-# A/B тестирование
-Цели исследования - провести оценку результатов A/B-теста, то есть оценить корректность проведения теста и проанализировать результаты теста.
-В исследовании используется датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
+# A/B testing
+The purpose of the study is to evaluate the results of the A/B test. The study uses a dataset with user actions, a technical specification and several auxiliary datasets.
 
-В ходе исследования проводится проверка соответствия данных техническому заданию, проверка корректности формирования выборок а также оценка результатов тестирования.
+In the course of the study, data compliance with the terms of reference is checked, the correctness of sample formation is checked, as well as the evaluation of test results.
