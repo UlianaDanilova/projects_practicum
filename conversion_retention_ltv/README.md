@@ -1,4 +1,3 @@
-# Анализ эффективности каналов привлечения пользователей развлекательного приложения 
+# Analysis of User Acquisition Channels for an Entertainment App
 
-В проекте был проведен расчет и анализ LTV, ROI, удержания и конверсии. А также построены графики данных метрик с разбивкой по странам, устройствам и рекламным каналам. 
-Выявлены причины неэффективности привлечения пользователей и сформулированы рекомендации для отдела маркетинга для повышения эффективности рекламы.
+In this project, calculations and analysis of LTV (Lifetime Value), ROI (Return on Investment), retention, and conversion rates were conducted. Graphs of these metrics were created, broken down by countries, devices, and advertising channels. The reasons for the inefficiency of user acquisition were identified, and recommendations were formulated for the marketing department to improve the effectiveness of advertising campaigns.
