@@ -1,4 +1,4 @@
-# Приоритизация гипотез для увеличения выручки и анализ A/B-теста
+# Prioritization of Hypotheses to Increase Revenue and A/B Test Analysis
 
-В ходе исседования была проведена приоритизация среди 9 гипотез по увеличению выручки интернет-магазина. 
-Также были проведен анализ результатов A/B-теста одной из гипотез. 
+During the study, prioritization was carried out among 9 hypotheses aimed at increasing the revenue of the online store.
+Additionally, an analysis was conducted on the results of an A/B test for one of the hypotheses.
