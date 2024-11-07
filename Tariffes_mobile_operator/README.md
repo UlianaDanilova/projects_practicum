@@ -1,3 +1,2 @@
-# Определение перспективного тарифа для телеком-компании 
-В данном исследовании проведен анализ тарифов компании на выборке клиентов. Были использованы данные 500 пользователей за 2018 год. 
-Также были проверены две гипотезы о равенстве средних двух генеральных совокупностей. 
+# Determining the Optimal Tariff for a Telecom Company
+This study analyzes the company's tariffs based on a sample of clients. Data from 500 users in 2018 was used. Additionally, two hypotheses were tested regarding the equality of means between two population groups.
