@@ -1,7 +1,10 @@
-# Анализ рекламных источников и поведения пользователей мобильной игры 
+# Analysis of Advertising Sources and User Behavior in a Mobile Game
 
-Цель исследования - анализ поведения пользователей в зависимости от источника перехода в игру. 
+The goal of the study is to analyze user behavior based on the source of their entry into the game.
 
-Анализ проводится на основании данных о событиях, совершенных в мобильной игре «Космические братья», а также информации о рекламных активностях и источниках привлечения пользователей. 
+The analysis is based on event data from the mobile game "Cosmic Brothers", as well as information about advertising activities and user acquisition sources.
 
-Был проведен исследовательский анализ данных и проверены статистические гипотезы. 
+An exploratory data analysis was conducted, and statistical hypotheses were tested.
+
+
+
